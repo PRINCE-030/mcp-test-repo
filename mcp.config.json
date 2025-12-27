@@ -1,0 +1,10 @@
+{
+  "servers": [
+    {
+      "name": "sample-mcp",
+      "type": "local",
+      "entry": "index.js",
+      "permissions": ["read"]
+    }
+  ]
+}
